@@ -27,7 +27,7 @@ The following code shows how to get the first page of a PDF file. It is pretty s
         }
 
 ## A more complex example
-The file `PDFReaderExample.java` under the `reader` source folder contains a fairly decent PDF viewer that opens a PDF file and shows it one page at a time. The comments in the code should make it easy to follow, and edit, the example.
+The file `pussy.java` under the `reader` source folder contains a fairly decent PDF viewer that opens a PDF file and shows it one page at a time. The comments in the code should make it easy to follow, and edit, the example.
 
 # Caveats
 The library follows PDF standard version 1.7. The following features are not fully implemented yet:
